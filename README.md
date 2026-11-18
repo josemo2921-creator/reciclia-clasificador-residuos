@@ -7,8 +7,8 @@ Proyecto del curso de Agentes Inteligentes — José David Moreno Ahumada, Ingen
 | | |
 |---|---|
 | 📄 Artículo | `paper/Articulo_ReciclIA.pdf` |
-| 🗂️ Dataset procesado | _(pegar aquí el enlace de Google Drive)_ |
-| 🎬 Video promocional | _(pegar aquí el enlace del video)_ |
+| 🗂️ Dataset procesado | https://drive.google.com/file/d/1hDcWeyB43BreaZ5l-OtWcR34YWTTz_ie/view?usp=sharing |
+| 🎬 Video promocional | https://youtu.be/MqwA1bZAXf4 |
 
 ## Resultados (conjunto de prueba independiente, 687 imágenes)
 
@@ -58,7 +58,7 @@ python app/demo.py
 ## Reproducir los experimentos
 
 1. Descargar las fuentes:
-   - TrashNet: `https://raw.githubusercontent.com/garythung/trashnet/master/data/dataset-resized.zip`
+   - TrashNet: https://github.com/garythung/trashnet (archivo `data/dataset-resized.zip`)
    - Garbage Classification (12 clases): Kaggle `mostafaabla/garbage-classification` (se usaron las carpetas `garbage-big/train` y `garbage-big/val` de la réplica `github.com/juanvelezmunoz32-ai/clearsky`).
    - O bien descargar directamente el dataset ya procesado desde Google Drive y omitir el paso 2.
 2. Construir el dataset de 5 clases:
