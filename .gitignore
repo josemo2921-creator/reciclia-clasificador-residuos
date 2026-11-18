@@ -1,0 +1,5 @@
+registro_clasificaciones.csv
+runs/*/mejor.pt
+data/
+__pycache__/
+*.pyc

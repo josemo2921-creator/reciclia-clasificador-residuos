@@ -1,0 +1,14 @@
+{
+  "checkpoint": "mobilenetv3_residuos.pt",
+  "modelo": "mobilenetv3",
+  "temperatura": 0.513817310333252,
+  "umbral": 0.6055251359939575,
+  "clases": [
+    "plastico",
+    "papel_carton",
+    "vidrio",
+    "metal",
+    "organico"
+  ],
+  "nota": "Temperatura y umbral ajustados en el conjunto de validación (exactitud selectiva objetivo 97 %)."
+}

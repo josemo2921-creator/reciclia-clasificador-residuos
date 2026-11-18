@@ -1,0 +1,12 @@
+{"epoca": 1, "fase": 1, "perdida_train": 0.7010776799917221, "perdida_val": 0.3349074907872007, "exactitud_val": 0.9082969432314411, "f1_val": 0.9047346903163351, "segundos": 54.63985872268677}
+{"epoca": 2, "fase": 1, "perdida_train": 0.5636152109503746, "perdida_val": 0.298852290996124, "exactitud_val": 0.9315866084425036, "f1_val": 0.9293406513573108, "segundos": 48.51671028137207}
+{"epoca": 3, "fase": 1, "perdida_train": 0.5416680899262428, "perdida_val": 0.3030011129865133, "exactitud_val": 0.9301310043668122, "f1_val": 0.9282289787188075, "segundos": 49.839773654937744}
+{"epoca": 4, "fase": 2, "perdida_train": 0.6522413498163223, "perdida_val": 0.3155837760047968, "exactitud_val": 0.9170305676855895, "f1_val": 0.9147834968284929, "segundos": 79.51639199256897}
+{"epoca": 5, "fase": 2, "perdida_train": 0.506591503918171, "perdida_val": 0.2597830347619203, "exactitud_val": 0.9388646288209607, "f1_val": 0.9361990324927385, "segundos": 91.37476062774658}
+{"epoca": 6, "fase": 2, "perdida_train": 0.460937020778656, "perdida_val": 0.2222039758551763, "exactitud_val": 0.9548762736535662, "f1_val": 0.9529897225275255, "segundos": 70.0372986793518}
+{"epoca": 7, "fase": 2, "perdida_train": 0.4396832683682442, "perdida_val": 0.20509247106582665, "exactitud_val": 0.950509461426492, "f1_val": 0.9485302280143347, "segundos": 73.69886136054993}
+{"epoca": 8, "fase": 2, "perdida_train": 0.430526936352253, "perdida_val": 0.21700609268232898, "exactitud_val": 0.9519650655021834, "f1_val": 0.9500724759216975, "segundos": 71.72127676010132}
+{"epoca": 9, "fase": 2, "perdida_train": 0.4262374034523964, "perdida_val": 0.22215327425294568, "exactitud_val": 0.9548762736535662, "f1_val": 0.9529249461851259, "segundos": 70.63272857666016}
+{"epoca": 10, "fase": 2, "perdida_train": 0.41969110250473024, "perdida_val": 0.21628738178436413, "exactitud_val": 0.9563318777292577, "f1_val": 0.9541117348683379, "segundos": 70.24369764328003}
+{"epoca": 11, "fase": 2, "perdida_train": 0.4191712108254433, "perdida_val": 0.21909175689564, "exactitud_val": 0.9548762736535662, "f1_val": 0.9528008163010698, "segundos": 71.77575707435608}
+Mejor F1 val: 0.9541

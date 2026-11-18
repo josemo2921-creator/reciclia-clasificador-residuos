@@ -1,0 +1,10 @@
+{"epoca": 1, "fase": 1, "perdida_train": 0.8164960378408432, "perdida_val": 0.37231287338501157, "exactitud_val": 0.8966521106259098, "f1_val": 0.8924672998801985, "segundos": 554.0246741771698}
+{"epoca": 2, "fase": 1, "perdida_train": 0.6133392804861069, "perdida_val": 0.32514251892223106, "exactitud_val": 0.9170305676855895, "f1_val": 0.9137029357070073, "segundos": 388.3589198589325}
+{"epoca": 3, "fase": 1, "perdida_train": 0.5931857824325562, "perdida_val": 0.32075867312790873, "exactitud_val": 0.9155749636098981, "f1_val": 0.911492753911183, "segundos": 323.2936773300171}
+{"epoca": 4, "fase": 2, "perdida_train": 0.6073795074224472, "perdida_val": 0.2548315063487668, "exactitud_val": 0.9374090247452693, "f1_val": 0.9350663420686823, "segundos": 367.50676584243774}
+{"epoca": 5, "fase": 2, "perdida_train": 0.5125399032235145, "perdida_val": 0.227289171371571, "exactitud_val": 0.9475982532751092, "f1_val": 0.9455239473947513, "segundos": 314.30629229545593}
+{"epoca": 6, "fase": 2, "perdida_train": 0.4775780037045479, "perdida_val": 0.2231438760327113, "exactitud_val": 0.950509461426492, "f1_val": 0.9486066040249634, "segundos": 305.1525204181671}
+{"epoca": 7, "fase": 2, "perdida_train": 0.4611685997247696, "perdida_val": 0.2123652226366157, "exactitud_val": 0.9490538573508006, "f1_val": 0.9472427170734203, "segundos": 330.1643867492676}
+{"epoca": 8, "fase": 2, "perdida_train": 0.44777306258678434, "perdida_val": 0.2134096667582638, "exactitud_val": 0.9534206695778749, "f1_val": 0.9517529087101867, "segundos": 310.2965133190155}
+{"epoca": 9, "fase": 2, "perdida_train": 0.4412707123160362, "perdida_val": 0.21549738893689374, "exactitud_val": 0.9519650655021834, "f1_val": 0.9501463548992533, "segundos": 320.8896987438202}
+Mejor F1 val: 0.9518

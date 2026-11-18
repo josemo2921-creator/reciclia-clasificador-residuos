@@ -1,0 +1,51 @@
+{
+  "ic95": {
+    "mobilenetv3": {
+      "exactitud": [
+        0.9432314410480349,
+        0.9723435225618632
+      ],
+      "f1_macro": [
+        0.941296467593854,
+        0.9712471057600262
+      ]
+    },
+    "efficientnet_b0": {
+      "exactitud": [
+        0.9534206695778749,
+        0.9796215429403202
+      ],
+      "f1_macro": [
+        0.9536167615051261,
+        0.9796767603428783
+      ]
+    },
+    "resnet50": {
+      "exactitud": [
+        0.9490538573508006,
+        0.9767103347889374
+      ],
+      "f1_macro": [
+        0.9471236289350105,
+        0.9760225481753246
+      ]
+    }
+  },
+  "mcnemar": {
+    "mobilenetv3_vs_efficientnet_b0": {
+      "solo_acierta_1": 11,
+      "solo_acierta_2": 18,
+      "p_valor": 0.26493089646101
+    },
+    "mobilenetv3_vs_resnet50": {
+      "solo_acierta_1": 17,
+      "solo_acierta_2": 21,
+      "p_valor": 0.6271025701571489
+    },
+    "efficientnet_b0_vs_resnet50": {
+      "solo_acierta_1": 14,
+      "solo_acierta_2": 11,
+      "p_valor": 0.6900379657745361
+    }
+  }
+}

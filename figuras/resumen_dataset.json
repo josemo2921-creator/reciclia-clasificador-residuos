@@ -1,0 +1,49 @@
+{
+  "dataset": {
+    "particiones": {
+      "train": {
+        "plastico": 601,
+        "papel_carton": 700,
+        "vidrio": 700,
+        "metal": 529,
+        "organico": 683
+      },
+      "val": {
+        "plastico": 127,
+        "papel_carton": 150,
+        "vidrio": 150,
+        "metal": 113,
+        "organico": 147
+      },
+      "test": {
+        "plastico": 127,
+        "papel_carton": 150,
+        "vidrio": 150,
+        "metal": 114,
+        "organico": 146
+      }
+    },
+    "fuentes": {
+      "plastico": [
+        478,
+        377
+      ],
+      "papel_carton": [
+        500,
+        500
+      ],
+      "vidrio": [
+        497,
+        503
+      ],
+      "metal": [
+        405,
+        351
+      ],
+      "organico": [
+        0,
+        976
+      ]
+    }
+  }
+}
